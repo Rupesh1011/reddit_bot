@@ -86,7 +86,7 @@ pip install <library-name>
      - Generate a post for the specified subreddit.
      - Comment on the top 5 hot posts in the subreddit (BONUS FEATURE).
 
-3. **Schedule Daily Posts and Comments**:
+3. **Optional: Schedule Daily Posts and Comments (uncomment the schedule main function and comment out the testing main function from the code)**:
 
    To run the bot continuously and schedule daily tasks uncomment the schedule main funtion and comment out the testing main function:
 
