@@ -108,17 +108,15 @@ This document provides detailed setup instructions to help you run the bot easil
 
 ### 3. Sample Output
 
-#### Generated Instructions
+### Logging
 ![image](https://github.com/user-attachments/assets/99bc45e7-7192-404d-9bff-c1b069233b5b)
 
-#### Generated Post
+### Generated Post
 ![image](https://github.com/user-attachments/assets/6c5bf613-2dcd-40e5-83d7-0fed4def9c8f)
 ![image](https://github.com/user-attachments/assets/02c24614-b72e-4ace-8a73-9e0d847f8be8)
 
 
-
-
-#### Generated Comments
+### Generated Comments
 ![image](https://github.com/user-attachments/assets/efce8a4c-4f11-4e26-ad13-4e6519c6499a)
 ![image](https://github.com/user-attachments/assets/5dad0d0c-fe78-4556-98a7-3113f7d56ba4)
 
