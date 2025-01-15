@@ -3,7 +3,7 @@ import time
 import logging
 from datetime import datetime
 import schedule
-import praw  # Reddit API Wrapper
+import praw  
 from groq import Groq
 from dotenv import load_dotenv
 
