@@ -1,4 +1,4 @@
-# Reddit Bot: Easy Setup Guide (INCLUDES BONUS FEATURE)
+# Reddit Bot: Easy Setup Guide (INCLUDES BONUS FEATURE WITH COMMENTING ON MULTIPLE POSTS AT ONCE)
 
 This guide will walk you through setting up and running a Reddit bot that generates posts and comments using the Groq API and the Reddit API.
 
@@ -116,7 +116,7 @@ This document provides detailed setup instructions to help you run the bot easil
 ![image](https://github.com/user-attachments/assets/02c24614-b72e-4ace-8a73-9e0d847f8be8)
 
 
-### Generated Comments
+### Generated Comments on multiple post at once
 ![image](https://github.com/user-attachments/assets/efce8a4c-4f11-4e26-ad13-4e6519c6499a)
 ![image](https://github.com/user-attachments/assets/5dad0d0c-fe78-4556-98a7-3113f7d56ba4)
 
